@@ -1,1 +1,61 @@
+{
+  "note": "Feries religieux marocains (dates lunaires). confirme:false = estimation a valider a l'annonce officielle. Format jour = 'JJ Month' (mois en anglais, comme flight.flightPdfMonth). rang = 1er/2e jour de la fete.",
+  "lastUpdated": "2026-08-27",
+  "years": {
+    "2025": [
+      { "jour": "31 March",     "fete": "Aid al-Fitr",  "rang": 1, "confirme": false },
+      { "jour": "01 April",     "fete": "Aid al-Fitr",  "rang": 2, "confirme": false },
+      { "jour": "07 June",      "fete": "Aid al-Adha",  "rang": 1, "confirme": false },
+      { "jour": "08 June",      "fete": "Aid al-Adha",  "rang": 2, "confirme": false },
+      { "jour": "26 June",      "fete": "1er Moharram", "rang": 1, "confirme": false },
+      { "jour": "04 September", "fete": "Mawlid",       "rang": 1, "confirme": false },
+      { "jour": "05 September", "fete": "Mawlid",       "rang": 2, "confirme": false }
+    ],
+    "2026": [
+      { "jour": "20 March",  "fete": "Aid al-Fitr",  "rang": 1, "confirme": false },
+      { "jour": "21 March",  "fete": "Aid al-Fitr",  "rang": 2, "confirme": false },
+      { "jour": "27 May",    "fete": "Aid al-Adha",  "rang": 1, "confirme": false },
+      { "jour": "28 May",    "fete": "Aid al-Adha",  "rang": 2, "confirme": false },
+      { "jour": "16 June",   "fete": "1er Moharram", "rang": 1, "confirme": false },
+      { "jour": "24 August", "fete": "Mawlid",       "rang": 1, "confirme": false },
+      { "jour": "25 August", "fete": "Mawlid",       "rang": 2, "confirme": false }
+    ],
+    "2027": [
+      { "jour": "10 March",  "fete": "Aid al-Fitr",  "rang": 1, "confirme": false },
+      { "jour": "11 March",  "fete": "Aid al-Fitr",  "rang": 2, "confirme": false },
+      { "jour": "17 May",    "fete": "Aid al-Adha",  "rang": 1, "confirme": false },
+      { "jour": "18 May",    "fete": "Aid al-Adha",  "rang": 2, "confirme": false },
+      { "jour": "06 June",   "fete": "1er Moharram", "rang": 1, "confirme": false },
+      { "jour": "14 August", "fete": "Mawlid",       "rang": 1, "confirme": false },
+      { "jour": "15 August", "fete": "Mawlid",       "rang": 2, "confirme": false }
+    ],
+    "2028": [
+      { "jour": "26 February", "fete": "Aid al-Fitr",  "rang": 1, "confirme": false },
+      { "jour": "27 February", "fete": "Aid al-Fitr",  "rang": 2, "confirme": false },
+      { "jour": "05 May",      "fete": "Aid al-Adha",  "rang": 1, "confirme": false },
+      { "jour": "06 May",      "fete": "Aid al-Adha",  "rang": 2, "confirme": false },
+      { "jour": "25 May",      "fete": "1er Moharram", "rang": 1, "confirme": false },
+      { "jour": "02 August",   "fete": "Mawlid",       "rang": 1, "confirme": false },
+      { "jour": "03 August",   "fete": "Mawlid",       "rang": 2, "confirme": false }
+    ],
+    "2029": [
+      { "jour": "15 February", "fete": "Aid al-Fitr",  "rang": 1, "confirme": false },
+      { "jour": "16 February", "fete": "Aid al-Fitr",  "rang": 2, "confirme": false },
+      { "jour": "24 April",    "fete": "Aid al-Adha",  "rang": 1, "confirme": false },
+      { "jour": "25 April",    "fete": "Aid al-Adha",  "rang": 2, "confirme": false },
+      { "jour": "14 May",      "fete": "1er Moharram", "rang": 1, "confirme": false },
+      { "jour": "23 July",     "fete": "Mawlid",       "rang": 1, "confirme": false },
+      { "jour": "24 July",     "fete": "Mawlid",       "rang": 2, "confirme": false }
+    ],
+    "2030": [
+      { "jour": "05 February", "fete": "Aid al-Fitr",  "rang": 1, "confirme": false },
+      { "jour": "06 February", "fete": "Aid al-Fitr",  "rang": 2, "confirme": false },
+      { "jour": "14 April",    "fete": "Aid al-Adha",  "rang": 1, "confirme": false },
+      { "jour": "15 April",    "fete": "Aid al-Adha",  "rang": 2, "confirme": false },
+      { "jour": "03 May",      "fete": "1er Moharram", "rang": 1, "confirme": false },
+      { "jour": "12 July",     "fete": "Mawlid",       "rang": 1, "confirme": false },
+      { "jour": "13 July",     "fete": "Mawlid",       "rang": 2, "confirme": false }
+    ]
+  }
+}
 

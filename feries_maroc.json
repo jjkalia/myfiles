@@ -1,24 +1,24 @@
 {
-  "note": "Feries religieux marocains (dates lunaires). confirme:false = estimation a valider a l'annonce officielle. Format jour = 'JJ Month' (mois en anglais, comme flight.flightPdfMonth). rang = 1er/2e jour de la fete.",
+  "note": "Feries religieux marocains (dates lunaires). confirme:true = date officielle Le Matin ; false = estimation/provisoire a valider a l'annonce. Format jour = 'JJ Month'. rang = 1er/2e jour de la fete.",
   "lastUpdated": "2026-08-27",
   "years": {
     "2025": [
       { "jour": "31 March",     "fete": "Aid al-Fitr",  "rang": 1, "confirme": false },
       { "jour": "01 April",     "fete": "Aid al-Fitr",  "rang": 2, "confirme": false },
-      { "jour": "07 June",      "fete": "Aid al-Adha",  "rang": 1, "confirme": false },
-      { "jour": "08 June",      "fete": "Aid al-Adha",  "rang": 2, "confirme": false },
-      { "jour": "26 June",      "fete": "1er Moharram", "rang": 1, "confirme": false },
-      { "jour": "04 September", "fete": "Mawlid",       "rang": 1, "confirme": false },
-      { "jour": "05 September", "fete": "Mawlid",       "rang": 2, "confirme": false }
+      { "jour": "06 June",      "fete": "Aid al-Adha",  "rang": 1, "confirme": false },
+      { "jour": "07 June",      "fete": "Aid al-Adha",  "rang": 2, "confirme": false },
+      { "jour": "27 June",      "fete": "1er Moharram", "rang": 1, "confirme": false },
+      { "jour": "05 September", "fete": "Mawlid",       "rang": 1, "confirme": false },
+      { "jour": "06 September", "fete": "Mawlid",       "rang": 2, "confirme": false }
     ],
     "2026": [
-      { "jour": "20 March",  "fete": "Aid al-Fitr",  "rang": 1, "confirme": false },
-      { "jour": "21 March",  "fete": "Aid al-Fitr",  "rang": 2, "confirme": false },
-      { "jour": "27 May",    "fete": "Aid al-Adha",  "rang": 1, "confirme": false },
-      { "jour": "28 May",    "fete": "Aid al-Adha",  "rang": 2, "confirme": false },
+      { "jour": "20 March",  "fete": "Aid al-Fitr",  "rang": 1, "confirme": true },
+      { "jour": "21 March",  "fete": "Aid al-Fitr",  "rang": 2, "confirme": true },
+      { "jour": "27 May",    "fete": "Aid al-Adha",  "rang": 1, "confirme": true },
+      { "jour": "28 May",    "fete": "Aid al-Adha",  "rang": 2, "confirme": true },
       { "jour": "16 June",   "fete": "1er Moharram", "rang": 1, "confirme": false },
-      { "jour": "24 August", "fete": "Mawlid",       "rang": 1, "confirme": false },
-      { "jour": "25 August", "fete": "Mawlid",       "rang": 2, "confirme": false }
+      { "jour": "25 August", "fete": "Mawlid",       "rang": 1, "confirme": true },
+      { "jour": "26 August", "fete": "Mawlid",       "rang": 2, "confirme": true }
     ],
     "2027": [
       { "jour": "10 March",  "fete": "Aid al-Fitr",  "rang": 1, "confirme": false },
@@ -58,4 +58,3 @@
     ]
   }
 }
-

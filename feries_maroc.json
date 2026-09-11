@@ -1,6 +1,6 @@
 {
-  "note": "Feries religieux marocains (dates lunaires). confirme:true = date officielle Le Matin ; false = estimation/provisoire a valider a l'annonce. Format jour = 'JJ Month'. rang = 1er/2e jour de la fete.",
-  "lastUpdated": "2026-08-27",
+  "note": "Feries religieux marocains (dates lunaires) — consommes UNIQUEMENT pour les pilotes AMS (RAM ne paie pas les feries religieux, gate isAms dans calculateHolidayHP). confirme:true = date officielle Le Matin ; false = estimation/provisoire a valider a l'annonce. Format jour = 'JJ Month' (mois en anglais, comme flight.flightPdfMonth). rang = 1er/2e jour de la fete ; rang 3 = pont AMS.",
+  "lastUpdated": "2026-09-11",
   "years": {
     "2025": [
       { "jour": "31 March",     "fete": "Aid al-Fitr",  "rang": 1, "confirme": false },
@@ -14,6 +14,7 @@
     "2026": [
       { "jour": "20 March",  "fete": "Aid al-Fitr",  "rang": 1, "confirme": true },
       { "jour": "21 March",  "fete": "Aid al-Fitr",  "rang": 2, "confirme": true },
+      { "jour": "23 March",  "fete": "Aid al-Fitr (pont AMS)", "rang": 3, "confirme": true, "amsOnly": true },
       { "jour": "27 May",    "fete": "Aid al-Adha",  "rang": 1, "confirme": true },
       { "jour": "28 May",    "fete": "Aid al-Adha",  "rang": 2, "confirme": true },
       { "jour": "16 June",   "fete": "1er Moharram", "rang": 1, "confirme": false },

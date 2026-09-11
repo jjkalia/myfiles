@@ -1,5 +1,5 @@
 {
-  "note": "Feries religieux marocains (dates lunaires) — consommes UNIQUEMENT pour les pilotes AMS (RAM ne paie pas les feries religieux, gate isAms dans calculateHolidayHP). confirme:true = date officielle Le Matin ; false = estimation/provisoire a valider a l'annonce. Format jour = 'JJ Month' (mois en anglais, comme flight.flightPdfMonth). rang = 1er/2e jour de la fete ; rang 3 = pont AMS.",
+  "note": "Feries religieux marocains (dates lunaires). N'impacte que la paie AMS (BC via holidayHP) — la paie RAM utilise sa propre liste FIXE (computeHolidayBreakdown). confirme:true = date officielle Le Matin ; false = estimation/provisoire a valider a l'annonce. Format jour = 'JJ Month' (mois en anglais, comme flight.flightPdfMonth). rang = 1er/2e jour de la fete ; rang 3 = pont AMS.",
   "lastUpdated": "2026-09-11",
   "years": {
     "2025": [

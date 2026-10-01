@@ -1,8 +1,8 @@
-# RosterPay — Politique de confidentialité
+# Roster & Pay — Politique de confidentialité
 
 *Dernière mise à jour : 1er octobre 2026*
 
-RosterPay est une application personnelle destinée aux personnels navigants. Elle lit le planning de vol que vous importez et calcule, sur votre appareil, vos heures, vos frais de déplacement, vos temps de service et de repos et une estimation de paie. Elle est éditée par Khalid Jenjare, développeur indépendant.
+Roster & Pay est une application personnelle destinée aux personnels navigants. Elle lit le planning de vol que vous importez et calcule, sur votre appareil, vos heures, vos frais de déplacement, vos temps de service et de repos et une estimation de paie. Elle est éditée par Khalid Jenjare, développeur indépendant.
 
 ## 1. Données traitées sur votre appareil uniquement
 
@@ -47,11 +47,11 @@ Pour toute question ou demande concernant vos données : jjkalia@gmail.com
 
 ---
 
-# RosterPay — Privacy Policy
+# Roster & Pay — Privacy Policy
 
 *Last updated: October 1, 2026*
 
-RosterPay is a personal app for flight crew members. It reads the flight roster you import and computes, on your device, your hours, travel allowances, duty and rest times and a pay estimate. It is published by Khalid Jenjare, an independent developer.
+Roster & Pay is a personal app for flight crew members. It reads the flight roster you import and computes, on your device, your hours, travel allowances, duty and rest times and a pay estimate. It is published by Khalid Jenjare, an independent developer.
 
 ## 1. Data processed on your device only
 
